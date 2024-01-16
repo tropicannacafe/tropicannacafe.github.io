@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css');
 :root {
-    --bgColor:#1C1C1C;
-    --accentColor: #E6E6E6;
+    --bgColor:#2B4745;
+    --accentColor: #D39A7C;
     --font: 'Karla', sans-serif;
     --firstName: 'John';
     --lastName: 'Doe';
